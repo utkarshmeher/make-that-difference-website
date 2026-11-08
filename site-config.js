@@ -1,4 +1,4 @@
-// Google Apps Script booking backend
+// After deploying the Google Apps Script backend, paste its Web App URL below.
 window.MTD_CONFIG = {
-bookingEndpoint: "https://script.google.com/macros/s/AKfycbxP7V3CDlHGZPw5eyr8uG5W4MjyaeQ26UoT5fWG-kFeLDWPKyePyDQq7lsOAWFQOrJELA/exec"
+  bookingEndpoint: "PASTE_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE"
 };
