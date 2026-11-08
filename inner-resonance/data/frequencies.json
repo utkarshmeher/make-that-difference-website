@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "frequencies": [
+    {
+      "id": "solfeggio_174",
+      "name": "Grounding Tone",
+      "frequency_hz": 174,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often associated with grounding and comfort in sound-healing traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Specific pain-relief or healing effects are not established.",
+      "overview": "A low, steady tone for arriving in the present moment. In some modern sound-wellness traditions, 174 Hz is used as a symbol of grounding and comfort.",
+      "try_for": "Settle into a comfortable seat. Let the tone accompany a few slow breaths, a body-scan, or a quiet pause between busy parts of the day.",
+      "evidence_summary": "No reliable evidence establishes 174 Hz as a treatment for pain or bodily conditions. Research on music and calming sound is broader and does not validate specific Solfeggio frequencies.",
+      "suggested_duration": "Try 5–10 minutes as a personal listening ritual. Keep the volume gentle and stop whenever you wish.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "solfeggio_285",
+      "name": "Restorative Tone",
+      "frequency_hz": 285,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often associated with restoration in sound-healing traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Claims about tissue regeneration are not established.",
+      "overview": "A gentle point of focus for stillness. Some contemporary sound-wellness traditions associate 285 Hz with restoration; the meaning is symbolic rather than a proven effect on the body.",
+      "try_for": "Pair it with soft rain or stillness. Notice the contact of your feet with the floor and allow the sound to sit in the background without needing to achieve anything.",
+      "evidence_summary": "Claims that 285 Hz regenerates tissue or repairs organs are not established by good clinical evidence.",
+      "suggested_duration": "Begin with about 5 minutes, then continue only if it feels comfortable. This is a listening suggestion, not a treatment dose.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "solfeggio_396",
+      "name": "Release & Reflect",
+      "frequency_hz": 396,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often associated with releasing fear or guilt in modern Solfeggio traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Specific emotional effects are not established.",
+      "overview": "In modern Solfeggio traditions, 396 Hz is often used as a symbol of releasing fear or guilt. You can approach it as a reflective cue, without expecting the tone to change an emotion for you.",
+      "try_for": "Try a few quiet breaths, or write down something you are ready to set aside for now. Keep the practice gentle and let your own experience lead.",
+      "evidence_summary": "The symbolic association is traditional rather than a scientifically established effect of 396 Hz itself.",
+      "suggested_duration": "A 5–10 minute reflection is a practical starting point, not a prescribed therapeutic duration.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "solfeggio_417",
+      "name": "A Fresh Beginning",
+      "frequency_hz": 417,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often associated with change and transitions in modern Solfeggio traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Specific cleansing or transformation effects are not established.",
+      "overview": "Often linked with change and fresh starts in contemporary Solfeggio traditions, 417 Hz can serve as a sound cue for transition—from work to rest, or from one part of the day to the next.",
+      "try_for": "Play it while tidying your space, journaling, or settling into meditation. You might pair it with waves or rain to shape the atmosphere.",
+      "evidence_summary": "There is no robust clinical evidence that 417 Hz clears negative energy or produces a specific psychological change.",
+      "suggested_duration": "Try 5–10 minutes at a comfortable volume. Shorter or longer is a matter of personal preference.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "tuning_432",
+      "name": "Harmony & Ease",
+      "frequency_hz": 432,
+      "category": "tuning_reference",
+      "traditional_association": "Popular in some relaxation and alternative-tuning contexts.",
+      "evidence_level": "not_established",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Unique healing benefits compared with other tuning references are not established.",
+      "overview": "432 Hz is popular in alternative tuning and relaxation communities. Some people enjoy its particular pitch; there is no established universal 'Earth resonance' or unique healing effect tied to this number.",
+      "try_for": "Create a quiet corner, loosen your shoulders, and let the tone accompany reading, gentle stretching, or meditation. Notice whether you personally enjoy the sound.",
+      "evidence_summary": "Evidence does not establish that 432 Hz is a universal natural resonance or has unique healing effects compared with other tunings. Music and sound may support relaxation for some people, but that does not validate this specific tuning claim.",
+      "suggested_duration": "Try 5–15 minutes as a personal listening window, at a comfortable volume.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "solfeggio_528",
+      "name": "Love & Transformation",
+      "frequency_hz": 528,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often called a transformation or love frequency in modern Solfeggio traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Claims about DNA repair are not established.",
+      "overview": "Often called the 'love' or 'transformation' tone in modern Solfeggio traditions, 528 Hz is used by some listeners as a symbol of openness and renewal. Claims about DNA repair or cellular healing are not established.",
+      "try_for": "Choose a kind intention for yourself, practise gratitude, or sit with a few unhurried breaths. The value of the moment is in your attention and experience—not a promised biological effect.",
+      "evidence_summary": "Claims that 528 Hz repairs DNA or reliably changes the body are not established by high-quality clinical evidence.",
+      "suggested_duration": "Try 5–10 minutes if you enjoy the tone. This is a mindful-listening suggestion, not a validated therapeutic dose.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "solfeggio_639",
+      "name": "Connection & Kindness",
+      "frequency_hz": 639,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often associated with relationships and connection in modern Solfeggio traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Specific relationship or empathy effects are not established.",
+      "overview": "In modern Solfeggio traditions, 639 Hz is associated with connection and relationships. Treat that association as an intention for reflection, rather than a sound that can change another person or guarantee a particular outcome.",
+      "try_for": "Listen before journaling, reflecting on someone you appreciate, or preparing for a thoughtful conversation. Let the sound create a pause rather than a promise.",
+      "evidence_summary": "Specific relationship or empathy effects from 639 Hz are not scientifically established.",
+      "suggested_duration": "A 5–10 minute reflective pause is a reasonable starting point, guided by comfort.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "solfeggio_741",
+      "name": "Clarity & Expression",
+      "frequency_hz": 741,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often associated with expression and clarity in modern Solfeggio traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Specific intuition or cleansing effects are not established.",
+      "overview": "Often associated with expression and clarity in contemporary Solfeggio traditions, 741 Hz can be used as a gentle cue for focused attention or creative work.",
+      "try_for": "Try it during journaling, sketching, quiet study, or planning. Let the tone mark out a little space for your thoughts without needing to force an answer.",
+      "evidence_summary": "Specific claims about detoxification, intuition, or cleansing from 741 Hz are not established.",
+      "suggested_duration": "Start with 5–10 minutes and adjust to comfort. There is no scientifically established listening dose for this frequency.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "solfeggio_852",
+      "name": "Intuition & Stillness",
+      "frequency_hz": 852,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often associated with intuition and spiritual awareness in modern Solfeggio traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Specific spiritual or physiological effects are not established.",
+      "overview": "Some modern Solfeggio traditions associate 852 Hz with intuition and spiritual awareness. You can use that symbolism to shape a quiet ritual, while leaving its meaning personal.",
+      "try_for": "Dim distractions, breathe naturally, and allow a few minutes for contemplation, meditation, or an evening wind-down.",
+      "evidence_summary": "Specific spiritual or physiological effects of 852 Hz have not been established by reliable clinical research.",
+      "suggested_duration": "Try 5–10 minutes as a personal practice. Pause or stop if the sound is uncomfortable.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    },
+    {
+      "id": "solfeggio_963",
+      "name": "Awareness & Quiet",
+      "frequency_hz": 963,
+      "category": "traditional_sound_healing",
+      "traditional_association": "Often associated with spiritual awareness in modern Solfeggio traditions.",
+      "evidence_level": "traditional_association",
+      "playback_modes": [
+        "mono",
+        "stereo"
+      ],
+      "headphone_guidance": "optional",
+      "default_duration_seconds": 300,
+      "note": "Specific spiritual or physiological effects are not established.",
+      "overview": "Often linked with spiritual awareness in contemporary Solfeggio traditions, 963 Hz can be a focus for stillness and contemplation. Spiritual interpretations vary, and the frequency is not a proven route to a particular state of consciousness.",
+      "try_for": "Use it as a quiet meditation cue, perhaps with the Nebula or Jungle at Night ambience. You do not need to feel anything special—simply notice the moment.",
+      "evidence_summary": "Claims about activating the pineal gland, awakening a “third eye,” or connecting to a universal energy are not established scientific effects.",
+      "suggested_duration": "Begin with around 5 minutes, and extend only if comfortable.",
+      "device_guidance": "Earphones are recommended only if you choose the separate left/right (binaural) mode. For a single tone, use your phone, speakers, or earphones—whichever feels comfortable."
+    }
+  ]
+}

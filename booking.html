@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f0e9">
+  <meta name="description" content="Connect with Ankita Mehta to explore counselling, conscious living coaching and well-being sessions.">
+  <title>Begin a Conversation | Make That Difference</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="booking.css">
+</head>
+<body>
+  <header class="booking-header">
+    <a class="brand" href="./"><span class="brand-mark">✧</span><span>Make That <b>Difference</b><small>WITH ANKITA MEHTA</small></span></a>
+    <a class="back-link" href="./">← Back to home</a>
+  </header>
+  <main class="booking-layout">
+    <section class="booking-intro">
+      <p class="eyebrow">A FIRST STEP, AT YOUR OWN PACE</p>
+      <h1>Let's begin with a <em>conversation.</em></h1>
+      <p>You don't need to have everything figured out before reaching out. Share a little about yourself and what you're looking for. Ankita will connect with you to explore a suitable next step.</p>
+      <div class="reassurance"><span>✧</span><div><strong>A thoughtful first connection</strong><small>Your details will be used only to respond to your enquiry and coordinate a possible session.</small></div></div>
+      <div class="contact-note"><span>Prefer WhatsApp?</span><a href="https://wa.me/919571477999" target="_blank" rel="noopener">Connect with Ankita ↗</a></div>
+    </section>
+    <section class="form-card" aria-labelledby="form-title">
+      <div class="form-heading"><p class="eyebrow">CONNECT WITH ANKITA</p><h2 id="form-title">Tell me a little about what brings you here.</h2><p>Fields marked with * are required.</p></div>
+      <form id="booking-form">
+        <div class="field-grid">
+          <label class="field">Your name *<input name="name" type="text" autocomplete="name" placeholder="How should I address you?" required maxlength="100"></label>
+          <label class="field">Email address *<input name="email" type="email" autocomplete="email" placeholder="you@example.com" required maxlength="160"></label>
+          <label class="field">Phone / WhatsApp number *<input name="phone" type="tel" autocomplete="tel" placeholder="Include country code if outside India" required maxlength="30"></label>
+          <label class="field">Best way to reach you<select name="contactPreference"><option value="WhatsApp">WhatsApp</option><option value="Phone call">Phone call</option><option value="Email">Email</option></select></label>
+        </div>
+        <fieldset class="service-fieldset"><legend>What would you like to explore? <span>(Choose any that apply)</span></legend>
+          <div class="service-options">
+            <label><input type="checkbox" name="services" value="Individual Psychological Counselling"><span>Individual Psychological Counselling</span></label>
+            <label><input type="checkbox" name="services" value="Conscious Living & Personal Growth Coaching"><span>Conscious Living &amp; Personal Growth Coaching</span></label>
+            <label><input type="checkbox" name="services" value="NLP-Based Coaching"><span>NLP-Based Coaching</span></label>
+            <label><input type="checkbox" name="services" value="Emotional Well-being & Stress Management"><span>Emotional Well-being &amp; Stress Management</span></label>
+            <label><input type="checkbox" name="services" value="Corporate Workshops"><span>Corporate Workshops</span></label>
+            <label><input type="checkbox" name="services" value="School, Parent & Educator Programmes"><span>School, Parent &amp; Educator Programmes</span></label>
+            <label><input type="checkbox" name="services" value="Retreats, Group Programmes & Experiences"><span>Retreats, Group Programmes &amp; Experiences</span></label>
+            <label><input type="checkbox" name="services" value="Intuitive Tarot Guidance"><span>Intuitive Tarot Guidance</span></label>
+            <label><input type="checkbox" name="services" value="Not sure yet — would like to discuss"><span>I'm not sure yet — I'd like to discuss</span></label>
+          </div>
+        </fieldset>
+        <label class="field full-field">What would you like support with? <span class="optional">(Optional)</span><textarea name="message" rows="4" maxlength="2000" placeholder="Share only what you're comfortable sharing. A few words are enough."></textarea></label>
+        <label class="field full-field">When would you prefer to connect? <span class="optional">(Optional)</span><select name="preferredTime"><option value="No preference">No preference</option><option value="Weekday mornings">Weekday mornings</option><option value="Weekday afternoons">Weekday afternoons</option><option value="Weekday evenings">Weekday evenings</option><option value="Weekends">Weekends</option></select></label>
+        <label class="consent"><input type="checkbox" name="consent" required><span>I agree that Ankita may contact me about this enquiry. I understand this form is for an initial connection and not for emergencies. *</span></label>
+        <input class="honey" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <button class="submit-button" id="submit-button" type="submit">Send my enquiry <span>↗</span></button>
+        <p class="form-status" id="form-status" role="status" aria-live="polite">Your information will be shared securely with Ankita for follow-up.</p>
+      </form>
+      <div class="success-state" id="success-state" hidden><div class="success-mark">✧</div><h2>Thank you for reaching out.</h2><p>Your enquiry has been submitted. Ankita will be in touch using your preferred contact method.</p><a class="return-link" href="./">Return to the website →</a></div>
+    </section>
+  </main>
+  <footer class="booking-footer">MAKE THAT DIFFERENCE · WITH ANKITA MEHTA</footer>
+  <script src="site-config.js"></script>
+  <script src="booking.js"></script>
+</body>
+</html>
